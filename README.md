@@ -1,7 +1,7 @@
 # scoring
 scoring system 
 
-### 1. User Roles and Authentication
+# 1. User Roles and Authentication
 
 Admin: Access to all system features.
 
@@ -9,7 +9,7 @@ Loan Officer: Can input applicant data and view predictions.
 
 Applicant (Optional): Can submit applications and check status.
 
-### 2. Features
+# 2. Features
 
 ## a. User Authentication
 
@@ -81,7 +81,7 @@ Application submission confirmation.
 
 Approval/denial notification.
 
-### 3. Technical Implementation
+# 3. Technical Implementation
 
 ## a. Front-end
 
@@ -109,7 +109,7 @@ Containerization: Docker for consistent environment management.
 
 CI/CD: Jenkins for automated deployment.
 
-### 4. Example User Interactions
+# 4. Example User Interactions
 
 Loan Officer Workflow
 
@@ -133,7 +133,7 @@ Update Model: Uploads a new version of the ML model and retrains it with new dat
 
 Generate Reports: Extracts detailed reports for strategic planning and decision-making.
 
-### 5. Screenshots and UI Mockups
+# 5. Screenshots and UI Mockups
 
 Here are some mockup descriptions:
 
