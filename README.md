@@ -1,7 +1,7 @@
 # scoring
 scoring system 
 
-## 1. User Roles and Authentication
+### 1. User Roles and Authentication
 
 Admin: Access to all system features.
 
@@ -9,9 +9,9 @@ Loan Officer: Can input applicant data and view predictions.
 
 Applicant (Optional): Can submit applications and check status.
 
-## 2. Features
+### 2. Features
 
-a. User Authentication
+## a. User Authentication
 
 Login/Logout Page:
 
@@ -19,7 +19,7 @@ Secure login form with username and password.
 
 Password recovery options.
 
-b. Data Input
+## b. Data Input
 
 Application Form:
 
@@ -33,7 +33,7 @@ Loan Specifics: Amount, term, interest rate, purpose.
 
 Validation: Ensures all required fields are filled and data formats are correct.
 
-c. Prediction System
+## c. Prediction System
 
 Prediction Dashboard:
 
@@ -51,7 +51,7 @@ Admin View:
 
 Overview of prediction performance and accuracy metrics.
 
-d. Model Management
+## d. Model Management
 
 Model Update Interface:
 
@@ -65,7 +65,7 @@ Performance Monitoring:
 
 Graphs and charts showing model performance over time.
 
-e. Reports and Analytics
+## e. Reports and Analytics
 
 Admin Dashboard:
 
@@ -73,7 +73,7 @@ Statistics: Number of applications, approval rates, demographic insights.
 
 Reports: Monthly and quarterly summaries, trend analysis.
 
-f. Notification System (Optional)
+## f. Notification System (Optional)
 
 Email/SMS Notifications:
 
@@ -81,27 +81,27 @@ Application submission confirmation.
 
 Approval/denial notification.
 
-3. Technical Implementation
+### 3. Technical Implementation
 
-a. Front-end
+## a. Front-end
 
 Technologies: a specifier
 
 Design: User-friendly and responsive layout.
 
-b. Back-end
+## b. Back-end
 
 Technologies: a specifier
 
 Database: a specifier
 
-c. Machine Learning
+## c. Machine Learning
 
 Libraries: Scikit-learn for initial model, TensorFlow/PyTorch for more complex models.
 
 Model Deployment: a specfier.
 
-d. Deployment
+## d. Deployment
 
 Platform: AWS for hosting and scaling.
 
@@ -109,7 +109,7 @@ Containerization: Docker for consistent environment management.
 
 CI/CD: Jenkins for automated deployment.
 
-4. Example User Interactions
+### 4. Example User Interactions
 
 Loan Officer Workflow
 
@@ -133,7 +133,7 @@ Update Model: Uploads a new version of the ML model and retrains it with new dat
 
 Generate Reports: Extracts detailed reports for strategic planning and decision-making.
 
-5. Screenshots and UI Mockups
+### 5. Screenshots and UI Mockups
 
 Here are some mockup descriptions:
 
