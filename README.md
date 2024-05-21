@@ -25,7 +25,7 @@ Application Form:
 
 Personal Details: Name, age, gender, marital status.
 
-Financial Information: Annual income, credit score, current debts.
+Financial Information: Annual income, current debts.
 
 Employment Details: Job title, years of employment.
 
